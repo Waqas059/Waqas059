@@ -26,7 +26,7 @@ My work focuses on turning complex customer and business problems into clear pro
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 [PM Agent V2](https://github.com/Waqas059/pm-agent-v2)
+### 🧠 [PM Agent V2](https://pm-agent-v2.vercel.app/)
 
 An AI-native workspace for Product Managers that turns product context, evidence and team decisions into structured product outputs.
 
@@ -40,7 +40,7 @@ An AI-native workspace for Product Managers that turns product context, evidence
 </td>
 <td width="50%" valign="top">
 
-### 📡 [Senti](https://senti-community.vercel.app)
+### 📡 [Senti](https://senti-community.vercel.app/)
 
 An AI-powered CXM concept focused on turning customer feedback and social conversations into clear product and brand insights.
 
@@ -55,7 +55,7 @@ An AI-powered CXM concept focused on turning customer feedback and social conver
 <tr>
 <td width="50%" valign="top">
 
-### 💬 [Viber Template Management](https://github.com/Waqas059/viber-template-management-demo)
+### 💬 [Viber Template Management](https://waqas059.github.io/viber-template-management-demo/)
 
 A CPaaS product prototype for managing Viber messaging templates and operational workflows.
 
@@ -68,7 +68,7 @@ A CPaaS product prototype for managing Viber messaging templates and operational
 </td>
 <td width="50%" valign="top">
 
-### 🤖 [HALA Agent Demo](https://github.com/Waqas059/hala-agent-demo)
+### 🤖 [HALA Agent Demo](https://waqas059.github.io/hala-agent-demo/)
 
 A lightweight AI-agent prototype used to explore how agentic workflows can support operational tasks while keeping people in control.
 
