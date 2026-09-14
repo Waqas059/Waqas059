@@ -1,170 +1,105 @@
-# Waqas Arshad
+<p align="center">
+  <img src="./Codex%20Image%20Sep%2014,%202026,%2006_23_22%20PM.png" width="100%" alt="Waqas Arshad · Product × AI × Platforms" />
+</p>
 
-### Senior Product Manager | AI Products | CPaaS & Communication Platforms
+<p align="center">
+  <strong>Senior Product Manager · AI Products · SaaS · CPaaS · Platform Products</strong>
+</p>
 
-I’m a product leader with 10+ years of experience across SaaS, telecom, CPaaS and enterprise platforms.
-
-My work sits at the intersection of **product strategy, customer problems, APIs and emerging AI capabilities**. I enjoy taking an idea from early discovery, turning it into a clear product proposition, validating it with users and stakeholders, and working with engineering teams to bring it to market.
-
-More recently, I have been exploring how AI, agents and modern development tools can help Product Managers move faster from **evidence → decision → prototype → validated product direction**.
-
-## What I work on
-
-- **AI Product Management**  
-  Exploring practical applications of LLMs, agents, structured workflows and AI-assisted product experiences.
-
-- **CPaaS & Customer Engagement**  
-  Product experience across SMS, WhatsApp Business, Viber, Voice, campaign management and enterprise communication platforms.
-
-- **0→1 Product Development**  
-  Turning customer and business problems into product concepts, prototypes, requirements and production-ready capabilities.
-
-- **Platform & API Products**  
-  Working with APIs, integrations, enterprise onboarding and platform capabilities where product and technical decisions are closely connected.
-
-- **Product Strategy & Discovery**  
-  Customer discovery, opportunity assessment, prioritisation, roadmap definition, experimentation and outcome measurement.
+<p align="center">
+  I turn customer problems into product strategy, working prototypes and scalable products.
+</p>
 
 ---
 
-## Selected Projects
+## Product × AI × Platforms
 
-### PM Agent V2
+I’m a Product Manager with 10+ years of experience across SaaS, telecom, CPaaS and enterprise platforms.
 
-An AI-native workspace for Product Managers designed to help turn product context, customer evidence and team decisions into structured product outputs.
+My work focuses on turning complex customer and business problems into clear product direction. I use prototypes, APIs and AI tools when they help validate an idea faster, communicate better with engineering teams or reduce uncertainty before a larger build.
 
-The project explores how AI can support real PM workflows without replacing product judgement.
+> **GitHub is my product experimentation lab.** It shows how I move from problem → hypothesis → prototype → learning.
 
-**Key areas explored:**
+## Featured Builds
 
-- Product discovery and problem definition workflows
-- Evidence-based product decision making
-- Context and document management
-- AI-assisted Discover → Define → Align workflows
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 [PM Agent V2](https://github.com/Waqas059/pm-agent-v2)
+
+An AI-native workspace for Product Managers that turns product context, evidence and team decisions into structured product outputs.
+
+**Explores:**
+- Discover → Define → Align workflows
+- Evidence-led product decisions
 - Structured AI outputs
-- Product prioritisation and experimentation
-- Usage controls and beta management
-- LangChain-based orchestration
-- OpenAI Responses API integration
-- Supabase authentication and data layer
+- Human review and usage controls
+- OpenAI + LangChain orchestration
 
-**Product question behind the project:**  
-How can AI reduce the operational work around product discovery while keeping decisions evidence-led and human-controlled?
+</td>
+<td width="50%" valign="top">
 
----
+### 📡 [Senti](https://github.com/Waqas059/senti)
 
-### Senti
+An AI-powered CXM concept focused on turning customer feedback and social conversations into clear product and brand insights.
 
-An AI-powered Customer Experience Management concept focused on converting large volumes of customer feedback and social conversations into actionable product and brand insights.
-
-The concept explores:
-
-- Sentiment analysis
-- Brand health monitoring
+**Explores:**
+- Sentiment and brand health
 - Complaint-driver identification
-- Competitive sentiment comparison
-- AI-assisted customer insight discovery
 - Conversational analytics
+- AI-assisted insight discovery
 
-**Product question behind the project:**  
-Can product and CX teams move from dashboards full of metrics to clear explanations of what customers are actually experiencing and why?
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
----
+### 💬 [Viber Template Management](https://github.com/Waqas059/viber-template-management-demo)
 
-### Viber Template Management Prototype
+A CPaaS product prototype for managing Viber messaging templates and operational workflows.
 
-An interactive product prototype for managing Viber messaging templates within a CPaaS platform.
+**Explores:**
+- Template creation and lifecycle
+- Approval states and filtering
+- Variables and live preview
+- Product flows for customers and operations teams
 
-The prototype explores:
+</td>
+<td width="50%" valign="top">
 
-- Template creation and management
-- OTP and transactional use cases
-- Template approval states
-- Language and category filtering
-- Viber Business ID management
-- Message preview and variable handling
-- Product flows for customer and operational teams
+### 🤖 [HALA Agent Demo](https://github.com/Waqas059/hala-agent-demo)
 
-This project reflects my broader work in CPaaS and multi-channel customer communication products.
+A lightweight AI-agent prototype used to explore how agentic workflows can support operational tasks while keeping people in control.
 
----
-
-### AI Agent Experiments
-
-I also build lightweight prototypes to explore how AI agents could solve specific operational and product problems.
-
-These experiments help me test:
-
-- User workflows
-- AI interaction models
-- Product assumptions
+**Explores:**
 - Agent boundaries
 - Human-review checkpoints
-- MVP scope
+- Workflow design
+- MVP validation through prototyping
 
-I use prototypes as a way to improve product decisions before committing significant engineering effort.
+</td>
+</tr>
+</table>
 
----
+## How I Work
 
-## How I approach product
-
-I generally work through five questions:
-
-**1. What problem are we actually solving?**  
-Understand the customer pain, business context and evidence before discussing features.
-
-**2. Who has this problem and how important is it?**  
-Separate interesting ideas from meaningful customer problems.
-
-**3. What is the smallest useful solution?**  
-Define an MVP that can validate the core assumption quickly.
-
-**4. How do we know it worked?**  
-Agree on measurable outcomes before building.
-
-**5. What did we learn?**  
-Use customer behaviour and evidence to decide what to improve, scale or stop.
-
----
+| Discover | Validate | Define | Build | Learn |
+|---|---|---|---|---|
+| Understand the real problem | Test assumptions early | Shape the smallest useful solution | Prototype or ship with the team | Measure, learn and iterate |
 
 ## Product + Technology
 
-I’m not positioning myself as a software engineer.
+I’m not positioning myself as a software engineer. I use technology as a Product Manager to understand what is possible, communicate clearly with engineering teams and build working prototypes when that helps validate a product direction.
 
-I use technology as a Product Manager to understand technical possibilities, communicate better with engineering teams and create working prototypes when that helps validate a product direction.
+`AI Products` · `SaaS` · `CPaaS` · `APIs` · `Customer Experience` · `OpenAI` · `LangChain` · `Supabase` · `Next.js` · `Vercel`
 
-Areas I currently work with include:
+## Areas I’m Exploring
 
-`OpenAI` · `LangChain` · `Next.js` · `Supabase` · `REST APIs` · `WhatsApp Business` · `Viber` · `CPaaS` · `SaaS Platforms` · `GitHub` · `Vercel`
-
----
-
-## Current interests
-
-I’m particularly interested in:
-
-- AI-native SaaS products
-- AI agents and workflow automation
-- Customer Experience platforms
-- CPaaS evolution toward customer engagement
-- Enterprise SaaS
-- Product discovery with AI
-- AI-enabled internal tools
-- Human-in-the-loop AI systems
+AI-native SaaS products · AI agents and workflow automation · customer engagement platforms · enterprise SaaS · product discovery with AI · human-in-the-loop systems
 
 ---
 
-## A little about me
-
-I currently work in Product Management within the communications technology space, managing platform capabilities used by enterprise customers.
-
-Over my career, I’ve worked across telecom, SaaS, communication platforms and enterprise products, with a strong focus on translating complex technical capabilities into products customers can actually use.
-
-I’m especially interested in opportunities where **product strategy, AI, platforms and customer experience** come together.
-
----
-
-### Connect
-
-**Location:** Islamabad, Pakistan  
-**Open to:** Senior Product Manager · Lead Product Manager · AI Product Manager · Principal Product Manager opportunities
+<p align="center">
+  <strong>Senior Product Manager · Lead Product Manager · AI Product Manager · Principal Product Manager</strong>
+</p>
