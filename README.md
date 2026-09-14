@@ -40,7 +40,7 @@ An AI-native workspace for Product Managers that turns product context, evidence
 </td>
 <td width="50%" valign="top">
 
-### 📡 [Senti](https://github.com/Waqas059/senti)
+### 📡 [Senti](https://senti-community.vercel.app)
 
 An AI-powered CXM concept focused on turning customer feedback and social conversations into clear product and brand insights.
 
