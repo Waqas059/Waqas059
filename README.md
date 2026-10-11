@@ -26,7 +26,7 @@ My work focuses on turning complex customer and business problems into clear pro
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 [PM Agent V2](https://pm-agent-v2.vercel.app/)
+### 🧠 [Bootstrap PM / PM Agent V2](https://pm-agent-v2.vercel.app/)
 
 An AI-native workspace for Product Managers that turns product context, evidence and team decisions into structured product outputs.
 
@@ -82,6 +82,17 @@ A lightweight AI-agent prototype used to explore how agentic workflows can suppo
 </tr>
 </table>
 
+## The Thinking Behind the Builds
+
+| Project | Problem explored | Design choice | What still needs validation |
+|---|---|---|---|
+| [Bootstrap PM / PM Agent V2](https://github.com/Waqas059/pm-agent-v2) | Product context and evidence become fragmented across documents and AI conversations. | Connect context, evidence, decisions and artifacts in one workspace, with human review. | Whether PMs reuse the outputs and spend less time reconstructing context. |
+| [Senti](https://github.com/Waqas059/senti) | Brand feedback is scattered across channels, making it difficult to identify what deserves attention. | Combine a sentiment overview with an actionable mention inbox. | Whether teams identify and resolve important issues faster. |
+| [Viber Template Management](https://github.com/Waqas059/viber-template-management-demo) | Template states, variables and approval steps can be difficult to understand. | Make the lifecycle visible with filtering, validation and a live preview. | Whether users complete template creation with fewer mistakes. |
+| [HALA Agent Demo](https://github.com/Waqas059/hala-agent-demo) | Field-agent onboarding can involve fragmented information and follow-ups. | Bring merchant context and assisted tasks into a bilingual field workflow. | Whether the proposed workflow reduces handoffs and improves completion. |
+
+These are working builds and product experiments. Hypotheses and validation plans are not claims of measured customer impact.
+
 ## How I Work
 
 | Discover | Validate | Define | Build | Learn |
@@ -90,7 +101,7 @@ A lightweight AI-agent prototype used to explore how agentic workflows can suppo
 
 ## Product + Technology
 
-I’m not positioning myself as a software engineer. I use technology as a Product Manager to understand what is possible, communicate clearly with engineering teams and build working prototypes when that helps validate a product direction.
+I build working prototypes to test assumptions, make product decisions concrete and align teams before a larger investment. I combine product strategy with hands-on experimentation across AI, APIs and customer engagement.
 
 `AI Products` · `SaaS` · `CPaaS` · `APIs` · `Customer Experience` · `OpenAI` · `LangChain` · `Supabase` · `Next.js` · `Vercel`
 
