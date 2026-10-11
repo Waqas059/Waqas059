@@ -55,7 +55,7 @@ An AI-powered CXM concept focused on turning customer feedback and social conver
 <tr>
 <td width="50%" valign="top">
 
-### 💬 [Viber Template Management](https://waqas059.github.io/viber-template-management-demo/)
+### 💬 [Viber Template Management](https://waqas-product-demos.sacredglade128.chatgpt.site/viber/)
 
 A CPaaS product prototype for managing Viber messaging templates and operational workflows.
 
@@ -68,7 +68,7 @@ A CPaaS product prototype for managing Viber messaging templates and operational
 </td>
 <td width="50%" valign="top">
 
-### 🤖 [HALA Agent Demo](https://waqas059.github.io/hala-agent-demo/)
+### 🤖 [HALA Agent Demo](https://waqas-product-demos.sacredglade128.chatgpt.site/hala/)
 
 A lightweight AI-agent prototype used to explore how agentic workflows can support operational tasks while keeping people in control.
 
@@ -88,8 +88,8 @@ A lightweight AI-agent prototype used to explore how agentic workflows can suppo
 |---|---|---|---|
 | [Bootstrap PM / PM Agent V2](https://pm-agent-v2.vercel.app/) | Product context and evidence become fragmented across documents and AI conversations. | Connect context, evidence, decisions and artifacts in one workspace, with human review. | Whether PMs reuse the outputs and spend less time reconstructing context. |
 | [Senti](https://senti-community.vercel.app/) | Brand feedback is scattered across channels, making it difficult to identify what deserves attention. | Combine a sentiment overview with an actionable mention inbox. | Whether teams identify and resolve important issues faster. |
-| [Viber Template Management](https://waqas059.github.io/viber-template-management-demo/) | Template states, variables and approval steps can be difficult to understand. | Make the lifecycle visible with filtering, validation and a live preview. | Whether users complete template creation with fewer mistakes. |
-| [HALA Agent Demo](https://waqas059.github.io/hala-agent-demo/) | Field-agent onboarding can involve fragmented information and follow-ups. | Bring merchant context and assisted tasks into a bilingual field workflow. | Whether the proposed workflow reduces handoffs and improves completion. |
+| [Viber Template Management](https://waqas-product-demos.sacredglade128.chatgpt.site/viber/) | Template states, variables and approval steps can be difficult to understand. | Make the lifecycle visible with filtering, validation and a live preview. | Whether users complete template creation with fewer mistakes. |
+| [HALA Agent Demo](https://waqas-product-demos.sacredglade128.chatgpt.site/hala/) | Field-agent onboarding can involve fragmented information and follow-ups. | Bring merchant context and assisted tasks into a bilingual field workflow. | Whether the proposed workflow reduces handoffs and improves completion. |
 
 These are working builds and product experiments. Hypotheses and validation plans are not claims of measured customer impact.
 
